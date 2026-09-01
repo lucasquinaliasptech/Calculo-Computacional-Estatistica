@@ -1,0 +1,6 @@
+user;cpu;ram;disk;gpu_usage;gpu_energy;timestamp
+amanda;14.8;92.8;294.19;null;null;2026-08-21 13:51:07.981380
+amanda;12.2;92.1;294.17;null;null;2026-08-21 13:51:17.985471
+amanda;2.6;91.5;294.19;null;null;2026-08-21 13:51:28.004177
+amanda;19.3;91.8;294.19;null;null;2026-08-21 13:51:38.006649
+amanda;3.4;91.2;294.19;null;null;2026-08-21 13:51:48.008209
